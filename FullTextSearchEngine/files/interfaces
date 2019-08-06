@@ -1,0 +1,17 @@
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# The primary network interface
+allow-hotplug enp0s3 
+iface enp0s3 inet dhcp 
+#address 192.168.34.59
+#netmask 255.255.255.0
+
+# The secondary network interface
+allow-hotplug enp0s8 
+iface enp0s8 inet static
+address 192.168.34.10
+netmask 255.255.255.0 
