@@ -67,8 +67,13 @@ exec /usr/bin/xfce4-session
  
  ![audio](./img/screen-shooter2.png)
  
- 8. [Install](https://phoenixnap.com/kb/install-java-on-centos#ftoc-heading-5) Oracle Java.
+ 8. Change DPI setting
  
+ ![DIP](./img/DPI.png)
+ 
+ 9. [Install](https://phoenixnap.com/kb/install-java-on-centos#ftoc-heading-5) Oracle Java.
+ 
+ 10. Enable [web camera](https://qiita.com/k-Mata/items/8dd19752ac066c59ea45)
 
 ## Option
 
@@ -97,6 +102,8 @@ If [xdg-open] failed, do the following
 ![slack](./img/Slack5.png)
 
 ![slack](./img/Slack6.png)
+
+Install [Zoom](https://support.zoom.us/hc/ja/articles/204206269-Linux%E3%81%ABZoom%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%BE%E3%81%9F%E3%81%AF%E6%9B%B4%E6%96%B0%E3%81%99%E3%82%8B#h_825b50ac-ad15-44a8-9959-28c97e4803ef)
 
 ## Referred to
 [Install](https://www.atmarkit.co.jp/ait/articles/1609/13/news024.html) with rpm file
